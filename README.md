@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+## Project Live at : https://punitkute.github.io/react-weather-app-v1/ ;
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
